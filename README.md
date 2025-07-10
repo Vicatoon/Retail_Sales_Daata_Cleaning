@@ -1,4 +1,4 @@
-# Retail_Sales_Daata_Cleaning
+# Retail_Sales_Data_Cleaning
 This project is a hands-on example of cleaning messy real-world retail sales data using Python and pandas. The dataset needed quite a bit of love — missing values, inconsistent formatting, and unnecessary columns. The goal was to get it cleaned up and ready for analysis or reporting.
 
 ---
