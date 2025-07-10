@@ -29,9 +29,9 @@ I wanted to get more hands-on with real data problems, not just analysis-ready d
 
 | File | Description |
 |------|-------------|
-| Retail_Store_Sales_Cleaning.csv | The dirty dataset |
-| Retail_Store_Sales_Cleaning.ipynb | The full Jupyter Notebook showing each step of the cleaning process |
-| Cleaned_Retail_Sales.csv | Final cleaned dataset, ready for analysis |
+| [Retail_Store_Sales_Cleaning.csv](./retail_store_sales.csv) | The dirty dataset |
+| [Retail Store Sales Cleaning Steps.pdf](./Retail Store Sales Cleaning Steps.pdf) | The full Jupyter Notebook showing each step of the cleaning process |
+| [Cleaned_Retail_Sales.csv](./cleaned_retail_store_sales.csv) | Final cleaned dataset, ready for analysis |
 | README.md | You’re reading it! 😄 |
 
 ---
